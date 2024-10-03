@@ -1,0 +1,15 @@
+[
+    {
+        "name": "huevo",
+        "users": []
+    },
+    {
+        "name": "one_piece",
+        "users": [
+            {
+                "name": "luffy",
+                "correo": "reydelospiratas@muguiwaras.com"
+            }
+        ]
+    }
+]
